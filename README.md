@@ -31,6 +31,9 @@ This interactive Power BI dashboard analyzes the shipment data of a chocolate co
 ## 📁 Files Included
 - 'Awesome_Chocolate_Shipments_Dashboard.pbix' – Power BI Report File
 - 'README.md' – Project Description
+## 📸 Dashboard Screenshot
+
+![Dashboard Screenshot](https://github.com/divya06-sql/awesome-chocolates-dashboard/blob/main/Screenshot%202025-07-06%20201004.png)
 
 ---
 
